@@ -1,3 +1,15 @@
+### Heading 3 ###
+
+The project is built in ReactJS, HTML, JavaScript, JSX and CSS code. No Redux is being used.  
+
+* No Redux is being used.
+* Uses ReactJS State and Props to send values to components.
+* Displays list of items for sale in an online portal where users can select products and it updates cart value on navbar and total price.
+* Users can add/remove and change the quntity of products purchased.
+* The list of products are available in Firebase Database (in Google). It uses Firebase APIs to connect, retrieve and write data.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
